@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SAHIL 
 - 👀 I’m interested in Website Development
-- 🌱 I’m currently working MEARN stack
+- 🌱 I’m currently working on MEARN stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
